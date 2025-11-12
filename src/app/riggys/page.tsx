@@ -17,7 +17,7 @@ export default function Riggys() {
         "Dumpsters on-site",
         "Drivers lounge with restrooms, showers, and laundry at select locations",
         "Paved and non-paved options",
-        "Demarcated & numbered",
+        "Designated & numbered",
         "Wide aisles for easy in and out"
       ]
     },
